@@ -55,8 +55,9 @@
         'views/finan_lancamento_transacao_entrada_view.xml',
         'views/finan_lancamento_transacao_saida_view.xml',
 
-        'views/finan_remessa_boleto_view.xml',
 
+        'views/finan_remessa_boleto_view.xml',
+        'views/finan_banco_fechamento.xml',
         #
         # Relatórios
         #
